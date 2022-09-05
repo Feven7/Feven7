@@ -14,6 +14,6 @@
 - 😄 Pronouns: He/Him (And BiSexual)
 - ⚡ Fun fact: Don't play minecraft. It sucks 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Feven7
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Feven7)
 
-https://github-readme-stats.vercel.app/api?username=Feven7&show_icons=true&theme=radical
+![Stats](https://github-readme-stats.vercel.app/api?username=Feven7&show_icons=true&theme=radical)
