@@ -19,9 +19,9 @@
           <p>💬 Ask me about any thing related with my projects</p>
       </li>
       <li>
-          <p>📫 How to reach me:
-              Discord - ! Feven7#9999
-              Instagram - feven7_(배정민)</p>
+          <p>📫 How to reach me:</p>
+             <p>Discord - ! Feven7#9999</p>
+              <p>Instagram - feven7_(배정민)</p>
       </li>
       <li>
           <p>😄 Pronouns: He/Him (And BiSexual)</p>
