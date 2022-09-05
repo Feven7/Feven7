@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Feven7/Feven7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Cube Connects](https://github.com/cube1dev)
 - 🌱 I’m currently learning Java, Kotlin
@@ -16,7 +13,6 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: He/Him (And BiSexual)
 - ⚡ Fun fact: Don't play minecraft. It sucks 
--->
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=Feven7
 
