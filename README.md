@@ -24,7 +24,7 @@
               <p>Instagram - feven7_(배정민)</p>
       </li>
       <li>
-          <p>😄 Pronouns: He/Him (And BiSexual)</p>
+          <p>😄 Pronouns: He/Him</p>
       </li>
       <li>⚡ Fun fact: Don&#39;t play minecraft. It sucks </li>
   </ul>
